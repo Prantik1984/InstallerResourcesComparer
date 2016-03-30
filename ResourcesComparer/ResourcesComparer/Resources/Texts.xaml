@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ResourcesComparer.Resources"
+                     xmlns:system="clr-namespace:System;assembly=mscorlib"
+                    >
+    <system:String x:Key="EnFl">English resource file:</system:String>
+    <system:String x:Key="CnFl">Chinese resource file:</system:String>
+    <system:String x:Key="ErrorFlMissing" xml:space="preserve">Either the En resource file 
+or the CN resource file is empty</system:String>
+    <system:String x:Key="InvFl">Invalid file</system:String>
+    <system:String x:Key="NoExistFl">File does not exist</system:String>
+    <system:String x:Key="Error">Error</system:String>
+    <system:String x:Key="XmlFl">Output Xml File:</system:String>
+    
+</ResourceDictionary>

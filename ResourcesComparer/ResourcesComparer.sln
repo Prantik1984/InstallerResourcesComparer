@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourcesComparer", "ResourcesComparer\ResourcesComparer.csproj", "{D2BB83CA-336F-465F-910C-C71DCD0B4838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceComparerConsole", "ResourceComparerConsole\ResourceComparerConsole.csproj", "{4AA3B573-C2A2-40A0-9EEF-437049DC0DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BB83CA-336F-465F-910C-C71DCD0B4838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BB83CA-336F-465F-910C-C71DCD0B4838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BB83CA-336F-465F-910C-C71DCD0B4838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BB83CA-336F-465F-910C-C71DCD0B4838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA3B573-C2A2-40A0-9EEF-437049DC0DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA3B573-C2A2-40A0-9EEF-437049DC0DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA3B573-C2A2-40A0-9EEF-437049DC0DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA3B573-C2A2-40A0-9EEF-437049DC0DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
